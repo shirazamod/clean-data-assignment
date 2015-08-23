@@ -1,9 +1,5 @@
 library(dplyr)
 
-## TODO Create Readme.md
-## TODO Create Codebook.md
-
-
 ##get feature headings
 f.header <- read.table("data/features.txt", stringsAsFactors = FALSE)
 
