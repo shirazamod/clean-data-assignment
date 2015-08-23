@@ -2,7 +2,7 @@
 
 This file contains descriptions for each variable in the data set, summaries that have been calculated and their units.
 
-*The original source of the data as referred to in this codebook can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones *
+* The original source of the data as referred to in this codebook can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones *
 
 ---
 
